@@ -1,0 +1,29 @@
+[33mcommit c4a72621a837e64c330ab407e6cf06827d78f6dc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Pachitaro <kyamiyatopera3@gmail.com>
+Date:   Sat Feb 18 00:13:54 2023 +0900
+
+    git commit --amendを追記
+
+[33mcommit 05dab66771c73c4da9ba9c7c5273fb3d455155cb[m
+Author: Pachitaro <kyamiyatopera3@gmail.com>
+Date:   Fri Feb 17 23:34:30 2023 +0900
+
+    .gitignoreファイルを追加
+
+[33mcommit c4b285d228a1732f7dc592d7c7916d9282f62a31[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Pachitaro <kyamiyatopera3@gmail.com>
+Date:   Wed Feb 15 03:22:52 2023 +0900
+
+    gitdiffを追加
+
+[33mcommit 6fb358ba3740309236864ecb8649e9ad16405b89[m
+Author: Pachitaro <kyamiyatopera3@gmail.com>
+Date:   Wed Feb 15 02:55:09 2023 +0900
+
+    git statusコマンドを追記
+
+[33mcommit 29560285241e77aa5044d18c705c8b13a35f246e[m
+Author: Pachitaro <kyamiyatopera3@gmail.com>
+Date:   Wed Feb 15 02:47:36 2023 +0900
+
+    Initial commit
